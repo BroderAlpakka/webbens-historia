@@ -42,7 +42,7 @@ nav {
 
 .nav-links {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     width: 40%;
     overflow: hidden;
 }
